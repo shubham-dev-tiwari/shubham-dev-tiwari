@@ -1,4 +1,14 @@
 # 💫 About Me:
+package whoami
+
+func aboutMe() {
+    identity := "Aspiring Software Developer"
+    certifications := [2]string{"GO Programming Language - Great Learning", "Python - techlearn.live"}
+    linkdin := "https://www.linkedin.com/in/shubham-dev-tiwari/"
+    website := "https://portfolio-shubham-tiwaris-projects-f7999503.vercel.app/"
+    passions := "Creating interactive and efficient web applications, solving complex problems, and exploring new technologies."
+    interests := "Contributing to open-source projects and collaborating on innovative ideas."
+}
 
 
 
