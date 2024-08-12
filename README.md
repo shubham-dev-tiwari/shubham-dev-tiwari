@@ -1,5 +1,5 @@
 # 💫 About Me:
-package whoami<br><br>func aboutMe() {<br>    identity := "Aspiring Software Developer"<br>    certifications := [2]string{"GO Programming Language - Great Learning", "Python - techlearn.live"}<br>    linkdin := "https://www.linkedin.com/in/shubham-dev-tiwari/"<br>    website := "https://portfolio-shubham-tiwaris-projects-f7999503.vercel.app/"<br>    passions := "Creating interactive and efficient web applications, solving complex problems, and exploring new technologies."<br>    interests := "Contributing to open-source projects and collaborating on innovative ideas."<br>}<br>
+package whoami<br><br>func aboutMe() {<br>    identity := "Aspiring Software Developer"<br>    <br>    linkdin := "https://www.linkedin.com/in/shubham-dev-tiwari/"<br>    website := "https://portfolio-shubham-tiwaris-projects-f7999503.vercel.app/"<br>    passions := "Creating interactive and efficient web applications, solving complex problems, and exploring new technologies."<br>    interests := "Contributing to open-source projects and collaborating on innovative ideas."<br>}<br>
 
 
 ## 🌐 Socials:
