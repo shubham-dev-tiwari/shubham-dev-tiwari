@@ -2,10 +2,8 @@
 
 ---
 
-## 🌟 *💫 **About Me**!**
-
 ```md
-
+# 💫 **About Me**
 
 ```javascript
 const aboutMe = () => {
@@ -20,10 +18,11 @@ const aboutMe = () => {
 ---
 
 ## 🌟 **Hello, I'm Shubham!**
-Welcome to my GitHub profile! I'm a passionate **Software Developer** with a love for building **web applications** that solve problems and enhance user experience. Whether it's building interactive web pages or developing backend systems, I'm always looking for new challenges that help me grow.
+Welcome to my GitHub! I’m a passionate **Software Developer** who enjoys creating meaningful web applications. Whether it’s building the frontend or crafting the backend, I thrive on creating **innovative** solutions. Let's connect and collaborate to bring exciting projects to life!
 
-- 🌍 **Portfolio**: [View my Portfolio](https://portfolio-shubham-dusky.vercel.app/)
+- 🌍 **Portfolio**: [Check it out](https://portfolio-shubham-dusky.vercel.app/)
 - 📬 **Email**: [shubham.dev.tiwari@example.com](mailto:shubham.dev.tiwari@example.com)
+- 🐦 **Twitter**: [@ShubhamDevT](https://twitter.com/ShubhamDevT)
 - 📌 **LinkedIn**: [shubham-dev-tiwari](https://www.linkedin.com/in/shubham-dev-tiwari/)
 
 ---
@@ -34,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a lov
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV6NWozdzN1MjFlb3gyaDRhNnYzNWdwNDFncHl3cHhiZ21zbW1nZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="60%" alt="Coding Passion GIF" />
 </div>
 
-I’m a **problem solver** at my core, constantly striving to make impactful changes through my code. From solving algorithmic challenges to bringing user experiences to life through seamless frontend development, I’m always driven to **build** and **innovate**.
+As a developer, I believe **learning never stops**. I’m always exploring new frameworks, solving complex problems, and building **robust, scalable solutions**. Every new project is a chance to grow!
 
 ---
 
@@ -44,13 +43,13 @@ I’m a **problem solver** at my core, constantly striving to make impactful cha
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRpMnJ4NTdxcDIyNGFhYzcxbHVzNW9wcmtnZDNtNXV6MzNtbnR3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqWU6NTLNLzg2Qf5rH/giphy.gif" width="60%" alt="Web Developer GIF" />
 </div>
 
-I’m a **Web Developer** who specializes in crafting **responsive**, **dynamic** websites that work seamlessly across devices. I focus on creating great user experiences and high-quality code that’s clean and maintainable.
+I specialize in creating **responsive**, **dynamic**, and **user-friendly** web applications. From modern frontend design to building the backend infrastructure, I have the skills to take a project from **concept to production**. 
 
 ---
 
 ## 🔧 **Tech Stack**
 
-Here’s a glimpse of my tools and technologies that power my coding journey:
+Here’s a peek into the technologies I use to create innovative solutions. These tools help me transform ideas into reality:
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
@@ -58,45 +57,53 @@ Here’s a glimpse of my tools and technologies that power my coding journey:
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/portfolio-%23FF7139.svg?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/>
 </div>
-
-These are just a few of the technologies I use regularly. I believe in **learning by doing**, and constantly strive to expand my skill set to stay up-to-date with new frameworks and tools!
 
 ---
 
 ## 📈 **GitHub Stats**
 
-Below are my GitHub stats, reflecting the work I’ve done over time:
+Here’s a summary of my GitHub activity, showcasing my contributions and learning journey:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham-dev-tiwari&theme=catppuccin-mauve&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
 
-## ✍️ **What I Do Outside of Code**
+## 📊 **Top Contributed Repos**
 
-When I’m not coding, you can find me:
+Check out my top contributed repositories:
 
-- Exploring new **open-source projects** and contributing to the community. 🌱
-- Writing about **software engineering** and sharing my knowledge on **technical blogs**. 📝
-- Experimenting with new technologies and building **personal projects**. ⚡
-- Networking with other developers and attending **tech events** to stay up-to-date. 🗣️
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=shubham-dev-tiwari&limit=5&theme=catppuccin-mauve&combine_all_yearly_contributions=true)
 
 ---
 
-## 🎯 **Future Goals**
+## ✍️ **Random Dev Quote**
+> *"The only way to do great work is to love what you do." – Steve Jobs*
 
-My future goals include:
-
-- **Build larger-scale applications** that have a positive impact on users' lives.
-- Contribute more to **open-source projects** and make meaningful changes in the tech community.
-- Continuously **learn new technologies** and improve my development skills. 🚀
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-Thank you for visiting my profile! 🚀 Let’s build the future together. ✨
+## 🔝 **Visit Count**
+
+Let’s keep this growing! 🌱
+
+[![](https://visitcount.itsvg.in/api?id=shubham-dev-tiwari&icon=2&color=5)](https://visitcount.itsvg.in)
+
+---
+
+### **Thanks for visiting my GitHub!** ✨
+
+Feel free to explore my repositories, connect with me, and let’s build something amazing together! 🚀
+
 ```
 
+---
+
+=
