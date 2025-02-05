@@ -17,15 +17,15 @@ const aboutMe = () => {
 
 ---
 
-🎯 My Coding Journey
-<div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJocGc4Z2dnYXFpdnZ6YWo4cWw5emR4YWFkZzRwZm5kNWV4YTZ0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bYOu4G8Ctz3UkuHVQe/giphy.gif" width="60%" alt="Coding Journey GIF"/> </div>
+## 🎯 **My Coding Journey**
 
-    "Code is like humor. When you have to explain it, it’s bad." — Cory House
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJocGc4Z2dnYXFpdnZ6YWo4cWw5emR4YWFkZzRwZm5kNWV4YTZ0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bYOu4G8Ctz3UkuHVQe/giphy.gif" width="60%" alt="Coding GIF"/>
+</div>
 
-🌐 Socials
+---
 
-    LinkedIn
-    Portfolio
+
 
 ---
 
