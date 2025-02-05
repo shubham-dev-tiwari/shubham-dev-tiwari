@@ -1,24 +1,89 @@
-# 💫 About Me:
-package whoami<br><br>func aboutMe() {<br>    identity := "Aspiring Software Developer"<br>    <br>    linkdin := "https://www.linkedin.com/in/shubham-dev-tiwari/"<br>    website := "https://portfolio-shubham-dusky.vercel.app/"<br>    passions := "Creating interactive and efficient web applications, solving complex problems, and exploring new technologies."<br>    interests := "Contributing to open-source projects and collaborating on innovative ideas."<br>}<br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-dev-tiwari/) 
+# **🚀 Shubham Tiwari | Web Developer**  
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubham-dev-tiwari&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubham-dev-tiwari&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-dev-tiwari&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+```go
+package whoami
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+func aboutMe() {
+    identity := "Aspiring Software Developer 🚀"
+    linkedin := "https://www.linkedin.com/in/shubham-dev-tiwari/"
+    portfolio := "https://portfolio-shubham-dusky.vercel.app/"
+    passions := "Building interactive, high-performance web apps."
+    interests := "Exploring new tech, solving problems & open-source!"
+}
+```
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shubham-dev-tiwari&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="80%" alt="Coding GIF">
+</div>  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shubham-dev-tiwari&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 **Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-dev-tiwari)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-shubham-dusky.vercel.app/)  
+
+---
+
+## 🔥 **Tech Stack**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+
+---
+
+## 📈 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-dev-tiwari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-dev-tiwari&theme=tokyonight&hide_border=false" height="180px"/>
+</div>
+
+---
+
+## 🚀 **Top Languages**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-dev-tiwari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180px"/>
+</div>
+
+---
+
+## 🏆 **GitHub Achievements**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham-dev-tiwari&theme=radical&no-frame=true&margin-w=5" alt="Trophy" />
+</div>
+
+---
+
+## 💡 **Dev Quote of the Day**
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+## 🔥 **Most Contributed Repositories**
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=shubham-dev-tiwari&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+## 🌍 **Visitors Count**
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=shubham-dev-tiwari&icon=5&color=6" alt="visitor count"/>
+</div>
+
+---
+
+✨ **"Keep coding, keep building, and stay awesome!"** 🚀🔥  
+
+---
+
