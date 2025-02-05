@@ -35,18 +35,11 @@ const aboutMe = () => {
 
 
 
-
 ---
 
 ## 🌐 **Socials**
 - [LinkedIn](https://www.linkedin.com/in/shubham-dev-tiwari/)
 - [Portfolio](https://portfolio-shubham-dusky.vercel.app/)
-
----
-
-
-
-
 
 
 ---
