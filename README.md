@@ -14,7 +14,7 @@ const aboutMe = () => {
 };
 ```
 
-<div align="center">
+<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="Coding GIF"> </div><div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="Coding GIF">
 </div>
 
@@ -78,16 +78,12 @@ const aboutMe = () => {
 ---
 
 ## **💻 Coder at Heart**  
-<div align="center">
-  <img src="https://media.giphy.com/media/1s6gd9v9d4ctjxUzED/giphy.gif" width="70%" alt="Coder GIF">
-</div>  
+<div align="center"> <img src="https://media.giphy.com/media/1s6gd9v9d4ctjxUzED/giphy.gif" width="70%" alt="Coder GIF"> </div> 
 
 ---
 
 ## **🌐 Web Developer by Profession**  
-<div align="center">
-  <img src="https://media.giphy.com/media/xUPGcHHgsKMtDzoHs8/giphy.gif" width="70%" alt="Web Developer GIF">
-</div>
+<div align="center"> <img src="https://media.giphy.com/media/xUPGcHHgsKMtDzoHs8/giphy.gif" width="70%" alt="Web Developer GIF"> </div>
 
 ---
 
