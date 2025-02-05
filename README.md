@@ -25,6 +25,7 @@ const aboutMe = () => {
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR2bGtzdzlzb3J1anVqdzJzaTNkMmh6NXJicmR1amRtbzJscDZiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3zA5P4jLrdkW2V3xlt/giphy.gif" width="60%" alt="Coding Journey GIF"/>
 </div>
 
+> **"Code is like humor. When you have to explain it, it’s bad."** — Cory House
 
 ## 🚀 **Web Development Adventure**
 
@@ -33,7 +34,7 @@ const aboutMe = () => {
 </div>
 
 
-> **"Code is like humor. When you have to explain it, it’s bad."** — Cory House
+
 
 ---
 
