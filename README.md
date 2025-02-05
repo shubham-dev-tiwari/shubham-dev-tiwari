@@ -1,8 +1,8 @@
-## 🌟 **About Me**
+# 🌟 **About Me** 🌟
 
-I'm an aspiring **Software Developer** with a passion for creating efficient and interactive web applications. I enjoy solving complex problems and exploring new technologies. My goal is to continually grow my skills and contribute to open-source projects that drive innovation.
+I'm an aspiring **Software Developer** with a passion for creating efficient and interactive web applications. I love solving complex problems and exploring new technologies. My goal is to continually grow my skills and contribute to open-source projects that drive innovation.
 
-I am also deeply interested in the development of seamless user interfaces and enjoy collaborating on projects that make a real-world impact.
+I am also deeply interested in developing seamless user interfaces and enjoy collaborating on projects that make a real-world impact.
 
 ---
 
@@ -47,7 +47,7 @@ Here are some of the tools and technologies I work with:
 
 Here are some of my GitHub stats that showcase my contributions and activity:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham-dev-tiwari&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham-dev-tiwari&theme=catppuccin-mocha&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
 
@@ -57,4 +57,15 @@ Feel free to reach out if you’re interested in collaborating or just want to c
 
 ---
 
-Thank you for stopping by! 🚀
+## **About Me (JavaScript)**
+
+Here is the JavaScript code that represents my personal information:
+
+```javascript
+const aboutMe = () => {
+  const identity = "Aspiring Software Developer";
+  const linkedin = "https://www.linkedin.com/in/shubham-dev-tiwari/";
+  const website = "https://portfolio-shubham-dusky.vercel.app/";
+  const passions = "Creating interactive and efficient web applications, solving complex problems, and exploring new technologies.";
+  const interests = "Contributing to open-source projects and collaborating on innovative ideas.";
+};
