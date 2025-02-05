@@ -94,8 +94,8 @@ const aboutMe = () => {
 ## 🌐 **Web Developer by Profession**  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2pHWzFlb5IpyXpIm0o/giphy.gif" width="60%" alt="Web Developer GIF" />
-</div>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRpMnJ4NTdxcDIyNGFhYzcxbHVzNW9wcmtnZDNtNXV6MzNtbnR3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqWU6NTLNLzg2Qf5rH/giphy.gif" width="60%" alt="We
+
 
 
 ---
