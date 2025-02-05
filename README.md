@@ -110,6 +110,11 @@ Here’s a peek into the technologies I use to create innovative solutions. Thes
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+## 🚀 **Final Thoughts**
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh5MnZzY2RsMW00ZWlpOGIyMDEyaXN4cnlqMGRtdHUzc3hzMTJsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="60%" alt="Final Thoughts GIF"/>
+</div>
 
 
 
