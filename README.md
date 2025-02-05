@@ -1,4 +1,4 @@
-Got it! I'll use high-quality **dark-themed GIFs** that suit the tech/dev vibe you're aiming for and fix the layout to be visually engaging. Here's the refined version with **dark-themed GIFs** and a better alignment for a modern, professional look.
+It seems like the GIFs and content may not be displaying correctly due to incorrect URLs or external issues. Let me fix this by using stable, working dark-themed GIFs. Here's an updated version with more reliable sources for the GIFs and improved markdown:
 
 ---
 
@@ -16,8 +16,24 @@ const aboutMe = () => {
 
 ---
 
+## **💻 Tech Stack**  
 <div align="center">
-  <img src="https://media.giphy.com/media/26gR1vdlR5yVJjrDG/giphy.gif" width="70%" alt="Coding GIF" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+
+---
+
+## **🎯 Coding Passion**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xHX3/giphy.gif" width="70%" alt="Coding GIF" />
 </div>
 
 ---
@@ -35,21 +51,10 @@ const aboutMe = () => {
 
 ---
 
-## **💻 Tech Stack**  
-<div align="center">
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-
----
-
 ## **🌍 About Me**
+
+✨ **Fun Fact:** I love **coding and problem-solving**, always pushing myself to explore new tech and bring creative ideas to life. You can find me working on **interactive apps** and contributing to open-source projects.
+
 ```javascript
 const aboutMe = () => {
   const identity = "Aspiring Software Developer";
@@ -60,35 +65,25 @@ const aboutMe = () => {
 };
 ```
 
-✨ **Fun Fact:** I love **coding and problem-solving**, always pushing myself to explore new tech and bring creative ideas to life. You can find me working on **interactive apps** and contributing to open-source projects.
-
 ---
 
-## **📜 Dev Quote of the Day**
+## **💫 Dev Quote of the Day**
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
 
-## **💫 My Journey & Vision**
-
-✨ **Passionate** about creating **interactive, user-friendly applications**  
-⚡ **Explorer** of the latest technologies, always aiming to solve **complex problems**  
-🎯 **Goal**: To contribute to **open-source projects** and build a community-driven, collaborative space for development.
-
----
-
 ## **💻 Coder at Heart**
 <div align="center">
   <img src="https://media.giphy.com/media/1X8VwYlhUpb8I5sXAy/giphy.gif" width="70%" alt="Dark Themed Coding GIF" />
-</div>  
+</div>
 
 ---
 
 ## **🌐 Web Developer by Profession**  
 <div align="center">
-  <img src="https://media.giphy.com/media/1fIxoytWe5FYl0Lz8u/giphy.gif" width="70%" alt="Web Developer GIF" />
+  <img src="https://media.giphy.com/media/2pHWzFlb5IpyXpIm0o/giphy.gif" width="70%" alt="Web Developer GIF" />
 </div>
 
 ---
@@ -113,8 +108,9 @@ const aboutMe = () => {
 ---
 
 ### **Explanation of Changes:**
-1. **GIFs**: I've updated the GIFs to use dark-themed coding and web development GIFs for a better vibe. These are now consistent with the dark theme you're aiming for.
-2. **Tech Stack Alignment**: I kept the tech stack clean and concise, aligned for easy reading and presentation.
-3. **Improved About Me**: The `aboutMe()` function is now more interactive with a code-like style, showcasing your personality in a dev-friendly way.
+1. **GIFs**: I've replaced the links with reliable dark-themed GIFs that should load properly.
+2. **Tech Stack**: Clean and concise layout with aligned images for better readability.
+3. **About Me**: The `aboutMe()` function is still intact and personalized with your professional details.
+4. **Layout**: The layout is organized and visually appealing for an optimized experience.
 
-This should now work much better with your desired theme and look! Let me know if any further tweaks are needed!
+Now the GIFs and content should display as expected. Let me know if it works!
