@@ -17,13 +17,15 @@ const aboutMe = () => {
 
 ---
 
-## 🌟 **Hello, I'm Shubham!**
-Welcome to my GitHub! I’m a passionate **Software Developer** who enjoys creating meaningful web applications. Whether it’s building the frontend or crafting the backend, I thrive on creating **innovative** solutions. Let's connect and collaborate to bring exciting projects to life!
+🎯 My Coding Journey
+<div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJocGc4Z2dnYXFpdnZ6YWo4cWw5emR4YWFkZzRwZm5kNWV4YTZ0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bYOu4G8Ctz3UkuHVQe/giphy.gif" width="60%" alt="Coding Journey GIF"/> </div>
 
-- 🌍 **Portfolio**: [Check it out](https://portfolio-shubham-dusky.vercel.app/)
-- 📬 **Email**: [shubham.dev.tiwari@example.com](mailto:shubham.dev.tiwari@example.com)
-- 🐦 **Twitter**: [@ShubhamDevT](https://twitter.com/ShubhamDevT)
-- 📌 **LinkedIn**: [shubham-dev-tiwari](https://www.linkedin.com/in/shubham-dev-tiwari/)
+    "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
+🌐 Socials
+
+    LinkedIn
+    Portfolio
 
 ---
 
@@ -87,22 +89,6 @@ Here’s a peek into the technologies I use to create innovative solutions. Thes
 
 ---
 
-## 🔝 **Visit Count**
 
-Let’s keep this growing! 🌱
-
-[![](https://visitcount.itsvg.in/api?id=shubham-dev-tiwari&icon=2&color=5)](https://visitcount.itsvg.in)[![](https://visitcount.itsvg.in/api?id=shubham-dev-tiwari&icon=2&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-
-### **Thanks for visiting my GitHub!** ✨
-
-Feel free to explore my repositories, connect with me, and let’s build something amazing together! 🚀
-
-```
-
----
-
-=
