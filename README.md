@@ -97,7 +97,6 @@ const aboutMe = () => {
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRpMnJ4NTdxcDIyNGFhYzcxbHVzNW9wcmtnZDNtNXV6MzNtbnR3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqWU6NTLNLzg2Qf5rH/giphy.gif" width="60%" alt="We
 
 
-
 ---
 
 ## ⚡ **Let's Build the Future Together!**
