@@ -2,7 +2,7 @@ It seems like the GIFs and content may not be displaying correctly due to incorr
 
 ---
 
-# **🚀 Shubham Tiwari | Full-Stack Developer**
+# **🚀 Shubham Tiwari | Web-Developer**
 
 ```js
 const aboutMe = () => {
@@ -13,7 +13,7 @@ const aboutMe = () => {
   const interests = "Contributing to open-source projects and collaborating on innovative ideas.";
 };
 ```
-
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamoyNG95ZjFxMjU0ZnR4NjhrcmRhcnBndnZqNmo0ZzMwbnB4bXg5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif
 ---
 
 ## **💻 Tech Stack**  
