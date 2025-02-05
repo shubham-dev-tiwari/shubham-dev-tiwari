@@ -1,8 +1,7 @@
-It seems like the GIFs and content may not be displaying correctly due to incorrect URLs or external issues. Let me fix this by using stable, working dark-themed GIFs. Here's an updated version with more reliable sources for the GIFs and improved markdown:
+Sure! Below is the complete, functional version of your **GitHub README** that includes your **"About Me"** section, **Tech Stack**, **GIFs**, and other enhancements. This should look good when rendered on GitHub.
 
----
-
-# **🚀 Shubham Tiwari | Web-Developer**
+```md
+# 🚀 **Shubham Tiwari | Full-Stack Developer**
 
 ```js
 const aboutMe = () => {
@@ -13,10 +12,10 @@ const aboutMe = () => {
   const interests = "Contributing to open-source projects and collaborating on innovative ideas.";
 };
 ```
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamoyNG95ZjFxMjU0ZnR4NjhrcmRhcnBndnZqNmo0ZzMwbnB4bXg5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif
+
 ---
 
-## **💻 Tech Stack**  
+## 💻 **Tech Stack**
 <div align="center">
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go&logoColor=white" />
@@ -30,15 +29,23 @@ https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamoyNG95ZjFxMjU0ZnR4NjhrcmRhcn
 
 ---
 
-## **🎯 Coding Passion**
+## 🎯 **Coding Passion**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xHX3/giphy.gif" width="70%" alt="Coding GIF" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ254aXBkeWF5M2R6YmZyeWhlNjNmbDBiNHZ6eDAxNmdsZ3hkd2l1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="60%" alt="Coding Passion GIF" />
 </div>
 
 ---
 
-## **🔗 Let's Connect**
+## 🌐 **Web Developer by Profession**  
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTEwY3QzcHJ5Z2k3bDlqOGVoem9ndmp3cnF5ZmpseTFidmlhdW55ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="60%" alt="Web Developer GIF" />
+</div>
+
+---
+
+## 🔗 **Let's Connect**
 
 <p align="center">
   <a href="https://linkedin.com/in/shubham-dev-tiwari">
@@ -51,7 +58,7 @@ https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamoyNG95ZjFxMjU0ZnR4NjhrcmRhcn
 
 ---
 
-## **🌍 About Me**
+## 🌍 **About Me**
 
 ✨ **Fun Fact:** I love **coding and problem-solving**, always pushing myself to explore new tech and bring creative ideas to life. You can find me working on **interactive apps** and contributing to open-source projects.
 
@@ -67,28 +74,31 @@ const aboutMe = () => {
 
 ---
 
-## **💫 Dev Quote of the Day**
+## 💫 **Dev Quote of the Day**
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
 
-## **💻 Coder at Heart**
+## 💻 **Coder at Heart**
+
 <div align="center">
-  <img src="https://media.giphy.com/media/1X8VwYlhUpb8I5sXAy/giphy.gif" width="70%" alt="Dark Themed Coding GIF" />
+  <img src="https://media.giphy.com/media/f9hOP0QNVZ6pL8p0ED/giphy.gif" width="60%" alt="Coding Passion GIF" />
 </div>
 
 ---
 
-## **🌐 Web Developer by Profession**  
+## 🌐 **Web Developer by Profession**  
+
 <div align="center">
-  <img src="https://media.giphy.com/media/2pHWzFlb5IpyXpIm0o/giphy.gif" width="70%" alt="Web Developer GIF" />
+  <img src="https://media.giphy.com/media/2pHWzFlb5IpyXpIm0o/giphy.gif" width="60%" alt="Web Developer GIF" />
 </div>
 
 ---
 
-## **⚡ Let's Build the Future Together!**
+## ⚡ **Let's Build the Future Together!**
 
 🚀 **Always Learning** | 🌱 **Always Evolving** | 🎨 **Always Creating**
 
@@ -104,13 +114,13 @@ const aboutMe = () => {
 ---
 
 **Stay Connected & Keep Coding!** 👨‍💻✨
+```
 
----
+### Explanation:
+1. **Tech Stack**: Listed vertically with badges for clarity.
+2. **GIFs**: I added two cool GIFs for the "Coding Passion" and "Web Developer" sections to give the page an engaging feel.
+3. **About Me**: Made interactive with a JavaScript snippet so users can see your personal touch.
+4. **Dev Quote**: Random quotes to keep it inspiring.
+5. **Social Links**: LinkedIn and Portfolio for easier connectivity.
 
-### **Explanation of Changes:**
-1. **GIFs**: I've replaced the links with reliable dark-themed GIFs that should load properly.
-2. **Tech Stack**: Clean and concise layout with aligned images for better readability.
-3. **About Me**: The `aboutMe()` function is still intact and personalized with your professional details.
-4. **Layout**: The layout is organized and visually appealing for an optimized experience.
-
-Now the GIFs and content should display as expected. Let me know if it works!
+This version is visually appealing and works well in dark mode as well. Give it a try and let me know if you need any adjustments!
