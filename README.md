@@ -85,7 +85,7 @@ const aboutMe = () => {
 ## 💻 **Coder at Heart**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f9hOP0QNVZ6pL8p0ED/giphy.gif" width="60%" alt="Coding Passion GIF" />
+  <img src="[https://media.giphy.com/media/f9hOP0QNVZ6pL8p0ED/giphy.gif"](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV6NWozdzN1MjFlb3gyaDRhNnYzNWdwNDFncHl3cHhiZ21zbW1nZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif) width="60%" alt="Coding Passion GIF" />
 </div>
 
 ---
