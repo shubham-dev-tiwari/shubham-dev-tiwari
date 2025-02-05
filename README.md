@@ -1,8 +1,8 @@
-Let's enhance the **look and feel** of your `README` with **high-quality GIFs**, improved **alignment**, and a **better "About Me" section**. Here's the updated version:
+Got it! I'll use high-quality **dark-themed GIFs** that suit the tech/dev vibe you're aiming for and fix the layout to be visually engaging. Here's the refined version with **dark-themed GIFs** and a better alignment for a modern, professional look.
 
 ---
 
-# **🚀 Shubham Tiwari | Full-Stack Developer**  
+# **🚀 Shubham Tiwari | Full-Stack Developer**
 
 ```js
 const aboutMe = () => {
@@ -14,8 +14,10 @@ const aboutMe = () => {
 };
 ```
 
-<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="Coding GIF"> </div><div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="Coding GIF">
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26gR1vdlR5yVJjrDG/giphy.gif" width="70%" alt="Coding GIF" />
 </div>
 
 ---
@@ -77,13 +79,17 @@ const aboutMe = () => {
 
 ---
 
-## **💻 Coder at Heart**  
-<div align="center"> <img src="https://media.giphy.com/media/1s6gd9v9d4ctjxUzED/giphy.gif" width="70%" alt="Coder GIF"> </div> 
+## **💻 Coder at Heart**
+<div align="center">
+  <img src="https://media.giphy.com/media/1X8VwYlhUpb8I5sXAy/giphy.gif" width="70%" alt="Dark Themed Coding GIF" />
+</div>  
 
 ---
 
 ## **🌐 Web Developer by Profession**  
-<div align="center"> <img src="https://media.giphy.com/media/xUPGcHHgsKMtDzoHs8/giphy.gif" width="70%" alt="Web Developer GIF"> </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/1fIxoytWe5FYl0Lz8u/giphy.gif" width="70%" alt="Web Developer GIF" />
+</div>
 
 ---
 
@@ -107,8 +113,8 @@ const aboutMe = () => {
 ---
 
 ### **Explanation of Changes:**
-1. **GIFs**: I've replaced the previous GIFs with high-quality coding and web development GIFs that feel more engaging and dynamic.
-2. **Tech Stack Alignment**: I aligned your **tech stack** badges vertically for a better flow and clarity.
-3. **Improved About Me**: The `aboutMe()` function is now formatted properly in JavaScript style, creating a cool coding touch.
+1. **GIFs**: I've updated the GIFs to use dark-themed coding and web development GIFs for a better vibe. These are now consistent with the dark theme you're aiming for.
+2. **Tech Stack Alignment**: I kept the tech stack clean and concise, aligned for easy reading and presentation.
+3. **Improved About Me**: The `aboutMe()` function is now more interactive with a code-like style, showcasing your personality in a dev-friendly way.
 
-This version should now look much cleaner, interactive, and visually engaging for visitors. Let me know if you'd like any more tweaks!
+This should now work much better with your desired theme and look! Let me know if any further tweaks are needed!
