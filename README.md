@@ -9,7 +9,7 @@
 const aboutMe = () => {
   const identity = "🚀 Aspiring Software Developer";
   const linkedin = "https://www.linkedin.com/in/shubham-dev-tiwari/";
-  const website = "https://portfolio-shubham-dusky.vercel.app/";
+  const website = "https://shubham-dev-tiwari.vercel.app/";
   const passions = "⚡ Creating interactive and efficient web applications, solving complex problems, and diving deep into new technologies.";
   const interests = "💡 Contributing to open-source projects, collaborating on innovative ideas, and continuously learning to push my limits.";
 };
