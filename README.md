@@ -6,7 +6,7 @@
 
 </samp>
 
----
+<br/>
 
 I build web applications, and I put AI inside them — the part that survives contact with real users, not the demo.
 
@@ -15,8 +15,6 @@ Day to day that means two layers. The **orchestration layer**, where a request g
 One and a half years in. Long enough to have shipped things, short enough to still be annoyed by my own old code.
 
 <br/>
-
-## The thing I keep building
 
 <img src="orchestrator.svg" width="100%" alt="Agent orchestration layer — request, planner, four specialized agents, synthesis, verified response" />
 
@@ -34,151 +32,58 @@ This is my professional work and the code is private, so there is no repo to lin
 
 <br/>
 
-## Stack
-
 <img src="stack.svg" width="100%" alt="Stack: TypeScript, React, Next.js, Node.js, Tailwind; Supabase, Postgres, RLS, Edge Functions, pgvector; Claude API, MCP, Agent Skills, OpenAI, Vercel AI SDK" />
 
 <br/>
 
-## Selected work
+<img src="h-work.svg" width="100%" alt="Selected work" />
 
-<table>
+<table border="0">
 <tr>
-<td width="50%" valign="top">
-
-**`01`** &nbsp; **Arlox** &nbsp; <samp>— professional, private</samp>
-
-Marketing and content platform. Supabase-backed CMS with SQL migrations and status workflows across every content table, plus OpenAI integration on the product side.
-
-<samp>Next.js · Supabase · Postgres · OpenAI</samp>
-
-<samp>private repository</samp>
-
-</td>
-<td width="50%" valign="top">
-
-**`02`** &nbsp; **CAT Mock Test Platform**
-
-Full exam-prep platform built for iQuanta — timed mock tests, sectional navigation, and scored analytics on Next.js 15 and React 19.
-
-<samp>Next.js 15 · React 19 · Radix UI · Tailwind</samp>
-
-[live](https://cat-mock-iquanta.vercel.app) &nbsp;·&nbsp; [source](https://github.com/shubham-dev-tiwari/cat-mock-iquanta)
-
-</td>
+<td width="50%"><img src="work-01.svg" width="100%" alt="Arlox — Supabase-backed CMS with SQL migrations and status workflows, plus OpenAI on the product surface" /><samp>private repository</samp></td>
+<td width="50%"><a href="https://github.com/shubham-dev-tiwari/cat-mock-iquanta"><img src="work-02.svg" width="100%" alt="CAT Mock Platform — exam-prep platform for iQuanta with timed mocks and scored analytics" /></a><samp><a href="https://cat-mock-iquanta.vercel.app">live</a> · <a href="https://github.com/shubham-dev-tiwari/cat-mock-iquanta">source</a></samp></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**`03`** &nbsp; **CLAT IQ**
-
-Law-entrance prep platform with an OpenAI-backed feature layer, dashboards, progress tracking, and a full Radix component system.
-
-<samp>Next.js · OpenAI · Radix UI · Tailwind</samp>
-
-[live](https://clat-iq-6ae4.vercel.app/) &nbsp;·&nbsp; [source](https://github.com/shubham-dev-tiwari/clat-iq)
-
-</td>
-<td width="50%" valign="top">
-
-**`04`** &nbsp; **iPhone 3D Viewer**
-
-Interactive 3D product viewer running in the browser — model loading, camera choreography, and scroll-driven animation.
-
-<samp>React Three Fiber · Three.js · GSAP</samp>
-
-[live](https://i-phone-three-hazel.vercel.app/) &nbsp;·&nbsp; [source](https://github.com/shubham-dev-tiwari/iPhone)
-
-</td>
+<td width="50%"><a href="https://github.com/shubham-dev-tiwari/clat-iq"><img src="work-03.svg" width="100%" alt="CLAT IQ — law-entrance prep platform with an OpenAI-backed feature layer" /></a><samp><a href="https://clat-iq-6ae4.vercel.app/">live</a> · <a href="https://github.com/shubham-dev-tiwari/clat-iq">source</a></samp></td>
+<td width="50%"><a href="https://github.com/shubham-dev-tiwari/iPhone"><img src="work-04.svg" width="100%" alt="iPhone 3D Viewer — interactive browser 3D product viewer built with React Three Fiber and GSAP" /></a><samp><a href="https://i-phone-three-hazel.vercel.app/">live</a> · <a href="https://github.com/shubham-dev-tiwari/iPhone">source</a></samp></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**`05`** &nbsp; **Invoice Generator**
-
-Typed invoice builder that renders print-ready PDFs client-side, with line-item editing and date handling.
-
-<samp>TypeScript · React · react-pdf</samp>
-
-[live](https://invoice-genrator-tawny.vercel.app) &nbsp;·&nbsp; [source](https://github.com/shubham-dev-tiwari/invoice-genrator)
-
-</td>
-<td width="50%" valign="top">
-
-**`06`** &nbsp; **CSV Image Processor API**
-
-Express service that ingests CSVs, processes images asynchronously, and exposes status through a two-endpoint API.
-
-<samp>Express · Mongoose · MongoDB</samp>
-
-<samp>backend</samp> &nbsp;·&nbsp; [source](https://github.com/shubham-dev-tiwari/backend-assign)
-
-</td>
+<td width="50%"><a href="https://github.com/shubham-dev-tiwari/invoice-genrator"><img src="work-05.svg" width="100%" alt="Invoice Generator — typed invoice builder rendering print-ready PDFs client-side" /></a><samp><a href="https://invoice-genrator-tawny.vercel.app">live</a> · <a href="https://github.com/shubham-dev-tiwari/invoice-genrator">source</a></samp></td>
+<td width="50%"><a href="https://github.com/shubham-dev-tiwari/backend-assign"><img src="work-06.svg" width="100%" alt="CSV Image Processor — Express service ingesting CSVs and processing images asynchronously" /></a><samp><a href="https://github.com/shubham-dev-tiwari/backend-assign">source</a></samp></td>
 </tr>
 </table>
 
 <br/>
 
-## Archive
+<img src="h-archive.svg" width="100%" alt="Archive" />
 
 <samp>
 
-**Platforms & products**
+`PLATFORMS`  [NEET Mock](https://mock-neet-pi.vercel.app) · [NEET](https://neet-khaki.vercel.app) · [Better Call ALP](https://bettercallalp-phi.vercel.app) · [Educator Portfolio](https://bettercallalp.vercel.app) · [Nexus](https://nexus-sigma-ten.vercel.app/)
 
-| | | |
-|:--|:--|:--|
-| [NEET Mock Platform](https://github.com/shubham-dev-tiwari/mock) | Next.js mock-test engine for NEET aspirants | [live](https://mock-neet-pi.vercel.app) |
-| [NEET](https://github.com/shubham-dev-tiwari/Neet) | Companion prep platform, Next.js | [live](https://neet-khaki.vercel.app) |
-| [Better Call ALP](https://github.com/shubham-dev-tiwari/bettercallalp) | Educator brand site, React + Tailwind | [live](https://bettercallalp-phi.vercel.app) |
-| [Educator Portfolio](https://github.com/shubham-dev-tiwari/educator-portfolio) | Portfolio build for an educator client | [live](https://bettercallalp.vercel.app) |
-| [Nexus](https://github.com/shubham-dev-tiwari/Nexus) | Interactive multi-feature web application | [live](https://nexus-sigma-ten.vercel.app/) |
+`COMMERCE`  [Audiophile](https://audiophile-ecommerce-mbart13.vercel.app/) · [Aura Bazar](https://aurabazar.vercel.app) · [E-Commerce](https://e-commerce--one.vercel.app) · [Nykaa Clone](https://nykaa-clone-lovat.vercel.app)
 
-**Commerce & dashboards**
+`DASHBOARDS`  [CRM Stats](https://crm-stats-ashen.vercel.app) · [Frontend Dashboard](https://frontend-dashboard-ruddy.vercel.app/)
 
-| | | |
-|:--|:--|:--|
-| [Audiophile](https://github.com/shubham-dev-tiwari/audiophile) | TypeScript e-commerce storefront with cart and checkout | [live](https://audiophile-ecommerce-mbart13.vercel.app/) |
-| [Aura Bazar](https://github.com/shubham-dev-tiwari/Ecommerce) | React storefront | [live](https://aurabazar.vercel.app) |
-| [E-Commerce](https://github.com/shubham-dev-tiwari/e-commerce-) | Full-stack storefront, React + Vite + Material UI | [live](https://e-commerce--one.vercel.app) |
-| [Nykaa Clone](https://github.com/shubham-dev-tiwari/nykaa-clone) | Beauty-retail UI rebuild | [live](https://nykaa-clone-lovat.vercel.app) |
-| [CRM Stats](https://github.com/shubham-dev-tiwari/CRM-Stats-) | CRM analytics dashboard | [live](https://crm-stats-ashen.vercel.app) |
-| [Frontend Dashboard](https://github.com/shubham-dev-tiwari/frontend-dashboard) | Redux Toolkit dashboard | [live](https://frontend-dashboard-ruddy.vercel.app/) |
+`SITES`  [King Sukh](https://king-sukh-pearl.vercel.app) · [Bhairava](https://bhairava.vercel.app) · [Ritu Chakra](https://ritu-chakra.vercel.app) · [Word Counter](https://word-counter-two-delta.vercel.app)
 
-**Sites & utilities**
+`TOOLS`  [WhatsApp Translator](https://github.com/shubham-dev-tiwari/whatsapp-translator) · [Cars](https://github.com/shubham-dev-tiwari/cars)
 
-| | | |
-|:--|:--|:--|
-| [King Sukh](https://github.com/shubham-dev-tiwari/king-sukh) | Responsive site with animation-led layout | [live](https://king-sukh-pearl.vercel.app) |
-| [Bhairava](https://github.com/shubham-dev-tiwari/Bhairava) | CSS-driven experience site | [live](https://bhairava.vercel.app) |
-| [Ritu Chakra](https://github.com/shubham-dev-tiwari/Ritu-chakra) | Weather app with a personality | [live](https://ritu-chakra.vercel.app) |
-| [Word Counter](https://github.com/shubham-dev-tiwari/word-counter) | Text analysis utility | [live](https://word-counter-two-delta.vercel.app) |
-| [WhatsApp Translator](https://github.com/shubham-dev-tiwari/whatsapp-translator) | Chrome extension — real-time WhatsApp Web translation | — |
-| [Cars](https://github.com/shubham-dev-tiwari/cars) | TypeScript car-listing UI | — |
-
-**Go**
-
-| | |
-|:--|:--|
-| [Crud-Api](https://github.com/shubham-dev-tiwari/Crud-Api) | REST CRUD service in Go |
-| [go_echo](https://github.com/shubham-dev-tiwari/go_echo) | Echo framework server |
-| [Cryptography-With-Go](https://github.com/shubham-dev-tiwari/Cryptography-With-Go) | Encryption primitives, hands-on |
-| [discord_bot](https://github.com/shubham-dev-tiwari/discord_bot) | Discord bot |
-| [Google-Translator-in-Go](https://github.com/shubham-dev-tiwari/Google-Translator-in-Go) | Translation CLI |
-| [chat_gpt_with_go](https://github.com/shubham-dev-tiwari/chat_gpt_with_go) | ChatGPT from the terminal |
+`GO`  [Crud-Api](https://github.com/shubham-dev-tiwari/Crud-Api) · [go_echo](https://github.com/shubham-dev-tiwari/go_echo) · [Cryptography](https://github.com/shubham-dev-tiwari/Cryptography-With-Go) · [Discord Bot](https://github.com/shubham-dev-tiwari/discord_bot) · [Translator CLI](https://github.com/shubham-dev-tiwari/Google-Translator-in-Go) · [ChatGPT CLI](https://github.com/shubham-dev-tiwari/chat_gpt_with_go)
 
 </samp>
 
 <br/>
 
-## Signal
+<img src="h-signal.svg" width="100%" alt="Signal" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-dev-tiwari&bg_color=0A0E12&color=E8E3D9&line=E0A144&point=E0A144&area=true&area_color=E0A144&title_color=E0A144&hide_border=true&custom_title=CONTRIBUTION%20GRAPH%20%E2%80%94%20LAST%2012%20MONTHS" width="100%" alt="Contribution activity, last 12 months" />
 
 <br/>
 
-## Open to
+<img src="h-open.svg" width="100%" alt="Open to" />
 
-AI engineering, backend, and full-stack roles. Also happy to talk to anyone building agents, retrieval systems, or something that has no clean answer yet.
+<img src="contact.svg" width="100%" alt="Available for work — AI engineering, backend, full-stack" />
 
 <samp>
 
