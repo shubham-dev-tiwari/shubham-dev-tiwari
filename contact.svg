@@ -1,27 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Available for work">
-  <defs>
-    <pattern id="gr" width="25" height="25" patternUnits="userSpaceOnUse">
-      <path d="M25 0H0V25" fill="none" stroke="#151E27" stroke-width="1"/>
-    </pattern>
-    <style>
-      .m { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
-      .amb { fill: #E0A144; } .bone { fill: #E8E3D9; }
-      .mut { fill: #7C8A99; } .dim { fill: #55636F; }
-      
-    </style>
-  </defs>
-  <rect width="1200" height="150" fill="#0A0E12"/>
-  <rect width="1200" height="150" fill="url(#gr)"/>
-  <g stroke="#26323E" stroke-width="1" fill="none"><path d="M18 34V18H34"/><path d="M1166 18H1182V34"/><path d="M18 116V132H34"/><path d="M1166 132H1182V116"/></g>
-  <text class="m bone" x="40" y="62" font-size="19" letter-spacing="3">AVAILABLE FOR WORK</text>
-  <text class="m mut" x="40" y="92" font-size="12">AI engineering &#183; backend &#183; full-stack. Also up for talking to anyone building agents,</text>
-  <text class="m mut" x="40" y="112" font-size="12">retrieval systems, or something that has no clean answer yet.</text>
-  <path d="M840 40V110" stroke="#1A242E"/>
-  <text class="m dim" x="880" y="58" font-size="10" letter-spacing="2.4">LOCATION</text>
-  <text class="m bone" x="1160" y="58" font-size="10" letter-spacing="2.4" text-anchor="end">INDIA &#183; REMOTE</text>
-  <text class="m dim" x="880" y="82" font-size="10" letter-spacing="2.4">NOTICE</text>
-  <text class="m bone" x="1160" y="82" font-size="10" letter-spacing="2.4" text-anchor="end">NEGOTIABLE</text>
-  <text class="m dim" x="880" y="106" font-size="10" letter-spacing="2.4">REPLY</text>
-  <text class="m bone" x="1160" y="106" font-size="10" letter-spacing="2.4" text-anchor="end">WITHIN 24H</text>
-  <path d="M40 124H1160" stroke="#141C24"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 274" width="1200" height="274" role="img" aria-label="Contact — email, LinkedIn, portfolio, available for work">
+  <defs><style>
+    .m { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    
+  </style></defs>
+  <rect width="1200" height="274" fill="#FAFAFA"/>
+  <rect width="1200" height="40" fill="#EAEAEB"/>
+  <path d="M0 40H1200" stroke="#D9D9DB"/>
+  <circle cx="24" cy="20" r="6" fill="#EC6A5E"/>
+  <circle cx="44" cy="20" r="6" fill="#F4BF4F"/>
+  <circle cx="64" cy="20" r="6" fill="#61C554"/>
+  <text class="m" x="155.0" y="25" font-size="13" text-anchor="middle" fill="#BFC0C2">profile.ts</text>
+  <text class="m" x="268.1" y="25" font-size="13" text-anchor="middle" fill="#BFC0C2">work.ts</text>
+  <text class="m" x="372.59999999999997" y="25" font-size="13" text-anchor="middle" fill="#BFC0C2">stack.ts</text>
+  <rect x="427.0" y="0" width="126.0" height="40" fill="#FAFAFA"/>
+  <path d="M427.0 0V40M553.0 0V40" stroke="#D9D9DB"/>
+  <path d="M427.0 1.5H553.0" stroke="#4078F2" stroke-width="3"/>
+  <text class="m" x="490.0" y="25" font-size="13" text-anchor="middle" fill="#383A42">contact.ts</text>
+  <rect x="0" y="40" width="58" height="204" fill="#F1F1F2"/>
+  <path d="M58 40V244" stroke="#D9D9DB"/>
+  <text class="m" x="44" y="80" font-size="13" fill="#BFC0C2" text-anchor="end">1</text>
+  <text class="m" x="44" y="106" font-size="13" fill="#BFC0C2" text-anchor="end">2</text>
+  <text class="m" x="44" y="132" font-size="13" fill="#BFC0C2" text-anchor="end">3</text>
+  <text class="m" x="44" y="158" font-size="13" fill="#BFC0C2" text-anchor="end">4</text>
+  <text class="m" x="44" y="184" font-size="13" fill="#BFC0C2" text-anchor="end">5</text>
+  <text class="m" x="44" y="210" font-size="13" fill="#BFC0C2" text-anchor="end">6</text>
+  <text class="m" x="78" y="80" font-size="15" xml:space="preserve"><tspan fill="#A626A4">export default </tspan><tspan fill="#383A42">{</tspan></text>
+  <text class="m" x="78" y="106" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  email</tspan><tspan fill="#383A42">: </tspan><tspan fill="#50A14F">"your.email@example.com"</tspan><tspan fill="#383A42">,</tspan></text>
+  <text class="m" x="78" y="132" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  linkedin</tspan><tspan fill="#383A42">: </tspan><tspan fill="#50A14F">"in/shubham-dev-tiwari"</tspan><tspan fill="#383A42">,</tspan></text>
+  <text class="m" x="78" y="158" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  portfolio</tspan><tspan fill="#383A42">: </tspan><tspan fill="#50A14F">"shubham-dev-tiwari.vercel.app"</tspan><tspan fill="#383A42">,</tspan></text>
+  <text class="m" x="78" y="184" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  available</tspan><tspan fill="#383A42">: </tspan><tspan fill="#986801">true</tspan><tspan fill="#383A42">,</tspan><tspan fill="#383A42">  </tspan><tspan fill="#A0A1A7">// ai engineering · backend · full-stack</tspan></text>
+  <text class="m" x="78" y="210" font-size="15" xml:space="preserve"><tspan fill="#383A42">};</tspan></text>
+  <rect x="0" y="244" width="1200" height="30" fill="#4078F2"/>
+  <text class="m" x="20" y="264" font-size="12" fill="#FFFFFF">TypeScript   UTF-8   LF</text>
+  <text class="m" x="1180" y="264" font-size="12" fill="#FFFFFF" text-anchor="end">0 problems     open to work</text>
 </svg>

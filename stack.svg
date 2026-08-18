@@ -1,51 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Stack specification: core, backend and data, AI and agents">
-  <defs>
-    <pattern id="g3" width="25" height="25" patternUnits="userSpaceOnUse">
-      <path d="M25 0H0V25" fill="none" stroke="#151E27" stroke-width="1"/>
-    </pattern>
-    <style>
-      .mono { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
-      .ttl { font-size: 13px; letter-spacing: 5px; fill: #E0A144; }
-      .sub { font-size: 11px; letter-spacing: 2.6px; fill: #63717F; }
-      .idx { font-size: 10px; letter-spacing: 1.6px; fill: #5B6874; }
-      .cat { font-size: 11px; letter-spacing: 3.2px; fill: #8C99A6; }
-      .val { font-size: 13px; letter-spacing: 1.2px; fill: #E8E3D9; }
-      .acc { fill: #E0A144; }
-    </style>
-  </defs>
-
-  <rect width="1200" height="340" fill="#0A0E12"/>
-  <rect width="1200" height="340" fill="url(#g3)"/>
-
-  <g stroke="#26323E" fill="none">
-    <path d="M24 44V24H44"/><path d="M1156 24H1176V44"/>
-    <path d="M24 296V316H44"/><path d="M1156 316H1176V296"/>
-  </g>
-
-  <text class="mono ttl" x="40" y="46">STACK</text>
-  <text class="mono sub" x="40" y="68">DAILY DRIVERS, NOT A CHECKLIST</text>
-  <path d="M40 86H1160" stroke="#161F28"/>
-
-  <g>
-    <text class="mono idx" x="40"  y="132">01</text>
-    <text class="mono cat" x="76"  y="132">CORE</text>
-    <text class="mono val" x="330" y="132">TypeScript &#183; React &#183; Next.js &#183; Node.js &#183; Tailwind CSS</text>
-    <path d="M40 152H1160" stroke="#141C24"/>
-  </g>
-
-  <g>
-    <text class="mono idx" x="40"  y="196">02</text>
-    <text class="mono cat" x="76"  y="196">BACKEND / DATA</text>
-    <text class="mono val" x="330" y="196">Supabase <tspan class="acc">&#183;</tspan> Postgres &#183; RLS &#183; Edge Functions &#183; pgvector</text>
-    <path d="M40 216H1160" stroke="#141C24"/>
-  </g>
-
-  <g>
-    <text class="mono idx" x="40"  y="260">03</text>
-    <text class="mono cat" x="76"  y="260">AI / AGENTS</text>
-    <text class="mono val" x="330" y="260">Claude API <tspan class="acc">&#183;</tspan> MCP &#183; Agent Skills &#183; OpenAI &#183; Vercel AI SDK</text>
-    <path d="M40 280H1160" stroke="#141C24"/>
-  </g>
-
-  <text class="mono idx" x="1160" y="310" text-anchor="end">SHEET 03 &#8212; SPECIFICATION</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 218" width="1200" height="218" role="img" aria-label="Stack: core TypeScript, React, Next.js, Node.js, Tailwind; data Supabase, Postgres, RLS, Edge Functions, pgvector; ai Claude API, MCP, Agent Skills, OpenAI, Vercel AI SDK">
+  <defs><style>
+    .m { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    
+  </style></defs>
+  <rect width="1200" height="218" fill="#FAFAFA"/>
+  <rect width="1200" height="40" fill="#EAEAEB"/>
+  <path d="M0 40H1200" stroke="#D9D9DB"/>
+  <circle cx="24" cy="20" r="6" fill="#EC6A5E"/>
+  <circle cx="44" cy="20" r="6" fill="#F4BF4F"/>
+  <circle cx="64" cy="20" r="6" fill="#61C554"/>
+  <text class="m" x="155.0" y="25" font-size="13" text-anchor="middle" fill="#BFC0C2">profile.ts</text>
+  <text class="m" x="268.1" y="25" font-size="13" text-anchor="middle" fill="#BFC0C2">work.ts</text>
+  <rect x="318.2" y="0" width="108.8" height="40" fill="#FAFAFA"/>
+  <path d="M318.2 0V40M427.0 0V40" stroke="#D9D9DB"/>
+  <path d="M318.2 1.5H427.0" stroke="#4078F2" stroke-width="3"/>
+  <text class="m" x="372.59999999999997" y="25" font-size="13" text-anchor="middle" fill="#383A42">stack.ts</text>
+  <text class="m" x="490.0" y="25" font-size="13" text-anchor="middle" fill="#BFC0C2">contact.ts</text>
+  <rect x="0" y="40" width="58" height="178" fill="#F1F1F2"/>
+  <path d="M58 40V218" stroke="#D9D9DB"/>
+  <text class="m" x="44" y="80" font-size="13" fill="#BFC0C2" text-anchor="end">1</text>
+  <text class="m" x="44" y="106" font-size="13" fill="#BFC0C2" text-anchor="end">2</text>
+  <text class="m" x="44" y="132" font-size="13" fill="#BFC0C2" text-anchor="end">3</text>
+  <text class="m" x="44" y="158" font-size="13" fill="#BFC0C2" text-anchor="end">4</text>
+  <text class="m" x="44" y="184" font-size="13" fill="#BFC0C2" text-anchor="end">5</text>
+  <text class="m" x="78" y="80" font-size="15" xml:space="preserve"><tspan fill="#A626A4">type </tspan><tspan fill="#C18401">Stack</tspan><tspan fill="#383A42"> = {</tspan></text>
+  <text class="m" x="78" y="106" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  core</tspan><tspan fill="#383A42">: [</tspan><tspan fill="#50A14F">"typescript"</tspan><tspan fill="#383A42">, </tspan><tspan fill="#50A14F">"react"</tspan><tspan fill="#383A42">, </tspan><tspan fill="#50A14F">"next.js"</tspan><tspan fill="#383A42">, </tspan><tspan fill="#50A14F">"node.js"</tspan><tspan fill="#383A42">, </tspan><tspan fill="#50A14F">"tailwind"</tspan><tspan fill="#383A42">];</tspan></text>
+  <text class="m" x="78" y="132" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  data</tspan><tspan fill="#383A42">: [</tspan><tspan fill="#50A14F">"supabase"</tspan><tspan fill="#383A42">, </tspan><tspan fill="#50A14F">"postgres"</tspan><tspan fill="#383A42">, </tspan><tspan fill="#50A14F">"rls"</tspan><tspan fill="#383A42">, </tspan><tspan fill="#50A14F">"edge functions"</tspan><tspan fill="#383A42">, </tspan><tspan fill="#50A14F">"pgvector"</tspan><tspan fill="#383A42">];</tspan></text>
+  <text class="m" x="78" y="158" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  ai</tspan><tspan fill="#383A42">:   [</tspan><tspan fill="#50A14F">"claude api"</tspan><tspan fill="#383A42">, </tspan><tspan fill="#50A14F">"mcp"</tspan><tspan fill="#383A42">, </tspan><tspan fill="#50A14F">"agent skills"</tspan><tspan fill="#383A42">, </tspan><tspan fill="#50A14F">"openai"</tspan><tspan fill="#383A42">, </tspan><tspan fill="#50A14F">"vercel ai sdk"</tspan><tspan fill="#383A42">];</tspan></text>
+  <text class="m" x="78" y="184" font-size="15" xml:space="preserve"><tspan fill="#383A42">};</tspan></text>
 </svg>

@@ -1,19 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 62" width="1200" height="62" role="img" aria-label="SIGNAL section">
-  <defs>
-    <pattern id="gr" width="25" height="25" patternUnits="userSpaceOnUse">
-      <path d="M25 0H0V25" fill="none" stroke="#151E27" stroke-width="1"/>
-    </pattern>
-    <style>
-      .m { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
-      .amb { fill: #E0A144; } .bone { fill: #E8E3D9; }
-      .mut { fill: #7C8A99; } .dim { fill: #55636F; }
-      
-    </style>
-  </defs>
-  <rect width="1200" height="62" fill="#0A0E12"/>
-  
-  <text class="m amb" x="40" y="26" font-size="13" letter-spacing="5.5">SIGNAL</text>
-  <text class="m dim" x="40" y="48" font-size="10" letter-spacing="2.8">TWELVE MONTHS OF COMMITS</text>
-  <path d="M149.0 21H1090" stroke="#1A242E"/>
-  <text class="m dim" x="1160" y="26" font-size="10" letter-spacing="2.6" text-anchor="end">SHEET 06</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 56" width="1200" height="56" role="img" aria-label="signal — twelve months of commits">
+  <defs><style>
+    .m { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    
+  </style></defs>
+  <rect width="1200" height="56" fill="#FAFAFA"/>
+  <rect x="0" y="0" width="58" height="56" fill="#F1F1F2"/>
+  <path d="M58 0V56" stroke="#D9D9DB"/>
+  <text class="m" x="44" y="34" font-size="13" fill="#BFC0C2" text-anchor="end">1</text>
+  <text class="m" x="78" y="34" font-size="15" xml:space="preserve"><tspan fill="#A0A1A7">// signal </tspan><tspan fill="#DCDCDE">────────────────────────────────────────────────────────────────────</tspan><tspan fill="#A0A1A7">  twelve months of commits</tspan></text>
 </svg>
