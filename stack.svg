@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Stack specification: core, backend and data, AI and agents">
+  <defs>
+    <pattern id="g3" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M25 0H0V25" fill="none" stroke="#151E27" stroke-width="1"/>
+    </pattern>
+    <style>
+      .mono { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+      .ttl { font-size: 13px; letter-spacing: 5px; fill: #E0A144; }
+      .sub { font-size: 11px; letter-spacing: 2.6px; fill: #63717F; }
+      .idx { font-size: 10px; letter-spacing: 1.6px; fill: #5B6874; }
+      .cat { font-size: 11px; letter-spacing: 3.2px; fill: #8C99A6; }
+      .val { font-size: 13px; letter-spacing: 1.2px; fill: #E8E3D9; }
+      .acc { fill: #E0A144; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="340" fill="#0A0E12"/>
+  <rect width="1200" height="340" fill="url(#g3)"/>
+
+  <g stroke="#26323E" fill="none">
+    <path d="M24 44V24H44"/><path d="M1156 24H1176V44"/>
+    <path d="M24 296V316H44"/><path d="M1156 316H1176V296"/>
+  </g>
+
+  <text class="mono ttl" x="40" y="46">STACK</text>
+  <text class="mono sub" x="40" y="68">DAILY DRIVERS, NOT A CHECKLIST</text>
+  <path d="M40 86H1160" stroke="#161F28"/>
+
+  <g>
+    <text class="mono idx" x="40"  y="132">01</text>
+    <text class="mono cat" x="76"  y="132">CORE</text>
+    <text class="mono val" x="330" y="132">TypeScript &#183; React &#183; Next.js &#183; Node.js &#183; Tailwind CSS</text>
+    <path d="M40 152H1160" stroke="#141C24"/>
+  </g>
+
+  <g>
+    <text class="mono idx" x="40"  y="196">02</text>
+    <text class="mono cat" x="76"  y="196">BACKEND / DATA</text>
+    <text class="mono val" x="330" y="196">Supabase <tspan class="acc">&#183;</tspan> Postgres &#183; RLS &#183; Edge Functions &#183; pgvector</text>
+    <path d="M40 216H1160" stroke="#141C24"/>
+  </g>
+
+  <g>
+    <text class="mono idx" x="40"  y="260">03</text>
+    <text class="mono cat" x="76"  y="260">AI / AGENTS</text>
+    <text class="mono val" x="330" y="260">Claude API <tspan class="acc">&#183;</tspan> MCP &#183; Agent Skills &#183; OpenAI &#183; Vercel AI SDK</text>
+    <path d="M40 280H1160" stroke="#141C24"/>
+  </g>
+
+  <text class="mono idx" x="1160" y="310" text-anchor="end">SHEET 03 &#8212; SPECIFICATION</text>
+</svg>

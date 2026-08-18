@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Shubham Tiwari — Software Engineer, AI Systems">
+  <defs>
+    <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M25 0H0V25" fill="none" stroke="#151E27" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0A0E12" stop-opacity="0"/>
+      <stop offset="0.75" stop-color="#0A0E12" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#0A0E12"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+      .name { font-size: 54px; font-weight: 500; letter-spacing: 13px; fill: #E8E3D9; }
+      .role { font-size: 14px; letter-spacing: 6.5px; fill: #E0A144; }
+      .lbl  { font-size: 11px; letter-spacing: 2.4px; fill: #6C7A88; }
+      .val  { font-size: 11px; letter-spacing: 2.4px; fill: #E8E3D9; }
+      .sheet{ font-size: 10px; letter-spacing: 3px; fill: #45525E; }
+      .flow { stroke: #E0A144; stroke-width: 1.5; fill: none; stroke-dasharray: 5 11; animation: march 2.6s linear infinite; }
+      .pulse{ animation: breathe 3.2s ease-in-out infinite; }
+      @keyframes march  { to { stroke-dashoffset: -64; } }
+      @keyframes breathe{ 0%,100% { opacity: .25; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0A0E12"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect width="1200" height="300" fill="url(#fade)"/>
+
+  <g stroke="#26323E" stroke-width="1" fill="none">
+    <path d="M24 44V24H44"/><path d="M1156 24H1176V44"/>
+    <path d="M24 256V276H44"/><path d="M1156 276H1176V256"/>
+  </g>
+  <g stroke="#26323E" stroke-width="1">
+    <path d="M600 24V38"/><path d="M600 276V262"/>
+  </g>
+
+  <text class="mono name" x="64" y="138">SHUBHAM TIWARI</text>
+  <text class="mono role" x="67" y="174">SOFTWARE ENGINEER &#183; AI SYSTEMS</text>
+
+  <g text-anchor="end">
+    <text class="mono" x="1136" y="92"><tspan class="lbl">EXPERIENCE  </tspan><tspan class="val">1.5 YEARS</tspan></text>
+    <text class="mono" x="1136" y="116"><tspan class="lbl">FOCUS  </tspan><tspan class="val">AGENTS &#183; RAG &#183; WEB</tspan></text>
+    <text class="mono" x="1136" y="140"><tspan class="lbl">STACK  </tspan><tspan class="val">NEXT.JS &#183; SUPABASE</tspan></text>
+    <text class="mono" x="1136" y="164"><tspan class="lbl">STATUS  </tspan><tspan class="val">OPEN TO WORK</tspan></text>
+  </g>
+  <path d="M950 78H1136" stroke="#1C2833" stroke-width="1"/>
+  <path d="M950 176H1136" stroke="#1C2833" stroke-width="1"/>
+
+  <path d="M64 214H1136" stroke="#1A242E" stroke-width="1"/>
+  <path class="flow" d="M64 214H1136"/>
+  <circle class="pulse" cx="64" cy="214" r="3" fill="#E0A144"/>
+
+  <text class="mono sheet" x="64" y="252">SHEET 01 &#8212; PROFILE</text>
+  <text class="mono sheet" x="1136" y="252" text-anchor="end">REV 08.2026</text>
+</svg>

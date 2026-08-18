@@ -1,61 +1,117 @@
-<div align="center">
+<img src="assets/banner.svg" width="100%" alt="Shubham Tiwari — Software Engineer, AI Systems" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=180&section=header&text=Shubham%20Tiwari&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20AI%20Integration&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="banner" />
+<samp>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+web+applications+that+ship;Integrating+AI+into+real+products;Agent+orchestration+%C2%B7+Claude+Skills+%C2%B7+MCP;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Supabase" alt="typing" />
+[LinkedIn](https://www.linkedin.com/in/shubham-dev-tiwari/) &nbsp;·&nbsp; [Portfolio](https://shubham-dev-tiwari.vercel.app/) &nbsp;·&nbsp; [Email](mailto:your.email@example.com)
 
-<br/><br/>
+</samp>
 
-<a href="https://www.linkedin.com/in/shubham-dev-tiwari/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://portfolio-shubham-dusky.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+---
 
-</div>
+I build web applications, and I put AI inside them — the part that survives contact with real users, not the demo.
+
+Day to day that means two layers. The **orchestration layer**, where a request gets decomposed, routed across agents and tools, and verified before anything reaches a user. And the **data layer** underneath it, where Supabase handles auth, Postgres, and content. The product surface on top is React and Next.js.
+
+One and a half years in. Long enough to have shipped things, short enough to still be annoyed by my own old code.
 
 <br/>
 
-## About
+## The thing I keep building
 
-Software Engineer with **1.5+ years** of experience building and shipping production web applications, with a focus on **integrating AI into real products** — not demos.
+<img src="assets/orchestrator.svg" width="100%" alt="Agent orchestration layer — request, planner, four specialized agents, synthesis, verified response" />
 
-I build agent orchestration layers that route work across multiple models and tools, author **Claude Skills** to give agents reusable domain capability, and wire it all to **Supabase** for auth, Postgres, and vector search. On the product side I work in React and Next.js, and I care about code that stays readable six months after it ships.
+A planner decomposes the request. Specialized agents run in parallel, each with a narrow tool surface. Synthesis merges their output and verifies it before anything is returned. Failures stay contained to one branch instead of poisoning the whole answer.
+
+This is my professional work and the code is private, so there is no repo to link. What I own inside it:
+
+`Claude Skills` — packaged instructions and scripts that give an agent a repeatable capability, versioned in the repo and reviewed like any other code. Beats re-prompting it every run.
+
+`MCP servers` — typed tool servers exposing internal APIs and databases, so an agent gets a contract instead of a scraped response.
+
+`Retrieval` — chunking and embedding pipelines, hybrid semantic and keyword search, reranked before it touches the context window.
+
+`Guardrails` — structured output validation, token budgeting, prompt caching, and evaluation sets that catch regressions before a deploy does.
 
 <br/>
 
-## What I Do
+## Stack
+
+<img src="assets/stack.svg" width="100%" alt="Stack: TypeScript, React, Next.js, Node.js, Tailwind; Supabase, Postgres, RLS, Edge Functions, pgvector; Claude API, MCP, Agent Skills, OpenAI, Vercel AI SDK" />
+
+<br/>
+
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### AI Integration
-Bringing LLMs into production apps — streaming chat, tool calling, structured output, and RAG pipelines with the Vercel AI SDK and the Claude API.
+**`01`** &nbsp; **Arlox** &nbsp; <samp>— professional, private</samp>
+
+Marketing and content platform. Supabase-backed CMS with SQL migrations and status workflows across every content table, plus OpenAI integration on the product side.
+
+<samp>Next.js · Supabase · Postgres · OpenAI</samp>
+
+<samp>private repository</samp>
 
 </td>
 <td width="50%" valign="top">
 
-### Agent Orchestration
-Multi-agent orchestrators that decompose a task, fan work out across specialized agents, and merge the results. Custom **Claude Skills** and **MCP** servers for reusable agent capability.
+**`02`** &nbsp; **CAT Mock Test Platform**
+
+Full exam-prep platform built for iQuanta — timed mock tests, sectional navigation, and scored analytics on Next.js 15 and React 19.
+
+<samp>Next.js 15 · React 19 · Radix UI · Tailwind</samp>
+
+[live](https://cat-mock-iquanta.vercel.app) &nbsp;·&nbsp; [source](https://github.com/shubham-dev-tiwari/cat-mock-iquanta)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Backend & Data
-Supabase as the backend — Postgres schema design, Row Level Security, Auth, Storage, Edge Functions, and **pgvector** for semantic search over embeddings.
+**`03`** &nbsp; **CLAT IQ**
+
+Law-entrance prep platform with an OpenAI-backed feature layer, dashboards, progress tracking, and a full Radix component system.
+
+<samp>Next.js · OpenAI · Radix UI · Tailwind</samp>
+
+[live](https://clat-iq-6ae4.vercel.app/) &nbsp;·&nbsp; [source](https://github.com/shubham-dev-tiwari/clat-iq)
 
 </td>
 <td width="50%" valign="top">
 
-### Frontend & Delivery
-Component architecture and rendering performance in React and Next.js. Git-based workflows, code review, and continuous deployment on Vercel.
+**`04`** &nbsp; **iPhone 3D Viewer**
+
+Interactive 3D product viewer running in the browser — model loading, camera choreography, and scroll-driven animation.
+
+<samp>React Three Fiber · Three.js · GSAP</samp>
+
+[live](https://i-phone-three-hazel.vercel.app/) &nbsp;·&nbsp; [source](https://github.com/shubham-dev-tiwari/iPhone)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`05`** &nbsp; **Invoice Generator**
+
+Typed invoice builder that renders print-ready PDFs client-side, with line-item editing and date handling.
+
+<samp>TypeScript · React · react-pdf</samp>
+
+[live](https://invoice-genrator-tawny.vercel.app) &nbsp;·&nbsp; [source](https://github.com/shubham-dev-tiwari/invoice-genrator)
+
+</td>
+<td width="50%" valign="top">
+
+**`06`** &nbsp; **CSV Image Processor API**
+
+Express service that ingests CSVs, processes images asynchronously, and exposes status through a two-endpoint API.
+
+<samp>Express · Mongoose · MongoDB</samp>
+
+<samp>backend</samp> &nbsp;·&nbsp; [source](https://github.com/shubham-dev-tiwari/backend-assign)
 
 </td>
 </tr>
@@ -63,142 +119,69 @@ Component architecture and rendering performance in React and Next.js. Git-based
 
 <br/>
 
-## AI Engineering
+## Archive
 
-What I actually build on the AI side:
+<samp>
 
-- **Agent orchestrators** — a planner that breaks a request into subtasks, dispatches them to specialized agents in parallel, and synthesizes one answer. Includes retry handling, token budgeting, and structured output validation so failures stay contained.
-- **Claude Skills** — packaged instructions and scripts that give an agent a repeatable capability instead of re-prompting it every run. Versioned in the repo and reviewed like any other code.
-- **MCP servers** — custom tool servers that expose internal APIs and databases to an agent through a typed interface.
-- **RAG over Supabase** — chunking and embedding pipelines writing to `pgvector`, with hybrid semantic and keyword retrieval, plus reranking before the context window.
-- **Production concerns** — streaming responses, prompt caching to cut cost, evaluation sets to catch regressions, and guardrails on anything that touches user data.
+**Platforms & products**
 
-<br/>
+| | | |
+|:--|:--|:--|
+| [NEET Mock Platform](https://github.com/shubham-dev-tiwari/mock) | Next.js mock-test engine for NEET aspirants | [live](https://mock-neet-pi.vercel.app) |
+| [NEET](https://github.com/shubham-dev-tiwari/Neet) | Companion prep platform, Next.js | [live](https://neet-khaki.vercel.app) |
+| [Better Call ALP](https://github.com/shubham-dev-tiwari/bettercallalp) | Educator brand site, React + Tailwind | [live](https://bettercallalp-phi.vercel.app) |
+| [Educator Portfolio](https://github.com/shubham-dev-tiwari/educator-portfolio) | Portfolio build for an educator client | [live](https://bettercallalp.vercel.app) |
+| [Nexus](https://github.com/shubham-dev-tiwari/Nexus) | Interactive multi-feature web application | [live](https://nexus-sigma-ten.vercel.app/) |
 
-## Tech Stack
+**Commerce & dashboards**
 
-<div align="center">
+| | | |
+|:--|:--|:--|
+| [Audiophile](https://github.com/shubham-dev-tiwari/audiophile) | TypeScript e-commerce storefront with cart and checkout | [live](https://audiophile-ecommerce-mbart13.vercel.app/) |
+| [Aura Bazar](https://github.com/shubham-dev-tiwari/Ecommerce) | React storefront | [live](https://aurabazar.vercel.app) |
+| [E-Commerce](https://github.com/shubham-dev-tiwari/e-commerce-) | Full-stack storefront, React + Vite + Material UI | [live](https://e-commerce--one.vercel.app) |
+| [Nykaa Clone](https://github.com/shubham-dev-tiwari/nykaa-clone) | Beauty-retail UI rebuild | [live](https://nykaa-clone-lovat.vercel.app) |
+| [CRM Stats](https://github.com/shubham-dev-tiwari/CRM-Stats-) | CRM analytics dashboard | [live](https://crm-stats-ashen.vercel.app) |
+| [Frontend Dashboard](https://github.com/shubham-dev-tiwari/frontend-dashboard) | Redux Toolkit dashboard | [live](https://frontend-dashboard-ruddy.vercel.app/) |
 
-**Core**
+**Sites & utilities**
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,html,css&theme=dark&perline=9" alt="core stack" />
+| | | |
+|:--|:--|:--|
+| [King Sukh](https://github.com/shubham-dev-tiwari/king-sukh) | Responsive site with animation-led layout | [live](https://king-sukh-pearl.vercel.app) |
+| [Bhairava](https://github.com/shubham-dev-tiwari/Bhairava) | CSS-driven experience site | [live](https://bhairava.vercel.app) |
+| [Ritu Chakra](https://github.com/shubham-dev-tiwari/Ritu-chakra) | Weather app with a personality | [live](https://ritu-chakra.vercel.app) |
+| [Word Counter](https://github.com/shubham-dev-tiwari/word-counter) | Text analysis utility | [live](https://word-counter-two-delta.vercel.app) |
+| [WhatsApp Translator](https://github.com/shubham-dev-tiwari/whatsapp-translator) | Chrome extension — real-time WhatsApp Web translation | — |
+| [Cars](https://github.com/shubham-dev-tiwari/cars) | TypeScript car-listing UI | — |
 
-<br/><br/>
+**Go**
 
-**Backend & Data**
+| | |
+|:--|:--|
+| [Crud-Api](https://github.com/shubham-dev-tiwari/Crud-Api) | REST CRUD service in Go |
+| [go_echo](https://github.com/shubham-dev-tiwari/go_echo) | Echo framework server |
+| [Cryptography-With-Go](https://github.com/shubham-dev-tiwari/Cryptography-With-Go) | Encryption primitives, hands-on |
+| [discord_bot](https://github.com/shubham-dev-tiwari/discord_bot) | Discord bot |
+| [Google-Translator-in-Go](https://github.com/shubham-dev-tiwari/Google-Translator-in-Go) | Translation CLI |
+| [chat_gpt_with_go](https://github.com/shubham-dev-tiwari/chat_gpt_with_go) | ChatGPT from the terminal |
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,python,docker,git,github,vercel&theme=dark&perline=8" alt="backend stack" />
-
-<br/><br/>
-
-**AI & Agents**
-
-<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
-<br/>
-<img src="https://img.shields.io/badge/MCP-8B5CF6?style=for-the-badge&logoColor=white" alt="MCP" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
-
-</div>
-
-<br/>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Agent Orchestrator
-Multi-agent system that decomposes a task, runs specialized agents in parallel, and synthesizes the results into one verified answer.
-
-`Claude API` `Next.js` `TypeScript` `Supabase`
-
-[Live](#) · [Code](#)
-
-</td>
-<td width="50%" valign="top">
-
-### AI Knowledge Assistant
-RAG pipeline over a document corpus — chunking, embeddings in `pgvector`, hybrid retrieval, and streaming answers with citations.
-
-`Supabase` `pgvector` `AI SDK` `Next.js`
-
-[Live](#) · [Code](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Project Name
-One or two lines on the problem it solves and the measurable outcome.
-
-`Next.js` `Node.js` `Supabase`
-
-[Live](#) · [Code](#)
-
-</td>
-<td width="50%" valign="top">
-
-### Project Name
-One or two lines on the problem it solves and the measurable outcome.
-
-`React` `Express` `Tailwind`
-
-[Live](#) · [Code](#)
-
-</td>
-</tr>
-</table>
+</samp>
 
 <br/>
 
-## GitHub Activity
+## Signal
 
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-dev-tiwari&theme=github_dark" alt="profile summary" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-dev-tiwari&bg_color=0A0E12&color=E8E3D9&line=E0A144&point=E0A144&area=true&area_color=E0A144&title_color=E0A144&hide_border=true&custom_title=CONTRIBUTION%20GRAPH%20%E2%80%94%20LAST%2012%20MONTHS" width="100%" alt="Contribution activity, last 12 months" />
 
 <br/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham-dev-tiwari&theme=github_dark" alt="languages" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubham-dev-tiwari&theme=github_dark" alt="most used" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubham-dev-tiwari&theme=github_dark&utcOffset=5.5" alt="productive time" />
+## Open to
 
-<br/><br/>
+AI engineering, backend, and full-stack roles. Also happy to talk to anyone building agents, retrieval systems, or something that has no clean answer yet.
 
-<img width="70%" src="https://streak-stats.demolab.com?user=shubham-dev-tiwari&theme=github-dark-blue&hide_border=true&border_radius=10" alt="streak" />
+<samp>
 
-<br/><br/>
+[LinkedIn](https://www.linkedin.com/in/shubham-dev-tiwari/) &nbsp;·&nbsp; [Portfolio](https://shubham-dev-tiwari.vercel.app/) &nbsp;·&nbsp; [your.email@example.com](mailto:your.email@example.com)
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-dev-tiwari&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
-
-</div>
-
-<br/>
-
-## Let's Connect
-
-<div align="center">
-
-Open to **AI engineering**, **backend**, and **full-stack** roles — and to collaborating on anything involving agents, retrieval, or hard product problems.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/shubham-dev-tiwari/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://portfolio-shubham-dusky.vercel.app/">
-  <img src="https://img.shields.io/badge/View_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=shubham-dev-tiwari&label=Profile+Views&color=8B5CF6&style=flat" alt="views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%" alt="footer" />
-
-</div>
+</samp>

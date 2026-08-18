@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-label="Agent orchestration layer: request enters an orchestrator, fans out to four specialized agents, converges through synthesis to a verified response">
+  <defs>
+    <pattern id="g2" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M25 0H0V25" fill="none" stroke="#151E27" stroke-width="1"/>
+    </pattern>
+    <style>
+      .mono { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+      .ttl  { font-size: 13px; letter-spacing: 5px; fill: #E0A144; }
+      .sub  { font-size: 11px; letter-spacing: 2.6px; fill: #63717F; }
+      .node { font-size: 12px; letter-spacing: 2.6px; fill: #E8E3D9; }
+      .idx  { font-size: 9px;  letter-spacing: 1.6px; fill: #5B6874; }
+      .edge { font-size: 9px;  letter-spacing: 1.8px; fill: #55636F; }
+      .box  { fill: #0D141B; stroke: #1F2C38; stroke-width: 1; }
+      .core { fill: #12191F; stroke: #E0A144; stroke-width: 1.25; }
+      .wire { fill: none; stroke: #1C2833; stroke-width: 1.25; }
+      .flow { fill: none; stroke: #E0A144; stroke-width: 1.4; stroke-dasharray: 4 12; animation: march 2.8s linear infinite; }
+      .f1 { animation-delay: 0s; } .f2 { animation-delay: .35s; }
+      .f3 { animation-delay: .7s; } .f4 { animation-delay: 1.05s; }
+      .f5 { animation-delay: 1.4s; }
+      .beat { animation: beat 3s ease-in-out infinite; }
+      @keyframes march { to { stroke-dashoffset: -64; } }
+      @keyframes beat  { 0%,100% { opacity:.2; } 50% { opacity:.9; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="460" fill="#0A0E12"/>
+  <rect width="1200" height="460" fill="url(#g2)"/>
+
+  <g stroke="#26323E" fill="none">
+    <path d="M24 44V24H44"/><path d="M1156 24H1176V44"/>
+    <path d="M24 416V436H44"/><path d="M1156 436H1176V416"/>
+  </g>
+
+  <text class="mono ttl" x="40" y="46">ORCHESTRATION LAYER</text>
+  <text class="mono sub" x="40" y="68">PLAN &#183; DISPATCH &#183; VERIFY &#183; SYNTHESIZE</text>
+  <path d="M40 86H1160" stroke="#161F28"/>
+
+  <g class="wire">
+    <path d="M420 250C468 250 470 118 518 118"/>
+    <path d="M420 250C468 250 470 200 518 200"/>
+    <path d="M420 250C468 250 470 282 518 282"/>
+    <path d="M420 250C468 250 470 364 518 364"/>
+    <path d="M738 118C786 118 788 250 836 250"/>
+    <path d="M738 200C786 200 788 250 836 250"/>
+    <path d="M738 282C786 282 788 250 836 250"/>
+    <path d="M738 364C786 364 788 250 836 250"/>
+    <path d="M212 250H292"/>
+    <path d="M964 250H1044"/>
+  </g>
+  <g>
+    <path class="flow f1" d="M420 250C468 250 470 118 518 118"/>
+    <path class="flow f2" d="M420 250C468 250 470 200 518 200"/>
+    <path class="flow f3" d="M420 250C468 250 470 282 518 282"/>
+    <path class="flow f4" d="M420 250C468 250 470 364 518 364"/>
+    <path class="flow f4" d="M738 118C786 118 788 250 836 250"/>
+    <path class="flow f3" d="M738 200C786 200 788 250 836 250"/>
+    <path class="flow f2" d="M738 282C786 282 788 250 836 250"/>
+    <path class="flow f1" d="M738 364C786 364 788 250 836 250"/>
+    <path class="flow f5" d="M212 250H292"/>
+    <path class="flow f5" d="M964 250H1044"/>
+  </g>
+
+  <g>
+    <rect class="box" x="72" y="228" width="140" height="44"/>
+    <text class="mono node" x="142" y="255" text-anchor="middle">REQUEST</text>
+  </g>
+
+  <g>
+    <rect class="core" x="292" y="206" width="128" height="88"/>
+    <rect x="292" y="206" width="128" height="88" fill="none" stroke="#E0A144" stroke-width="4" class="beat"/>
+    <text class="mono node" x="356" y="245" text-anchor="middle">PLANNER</text>
+    <text class="mono idx" x="356" y="266" text-anchor="middle">DECOMPOSE</text>
+    <text class="mono edge" x="356" y="192" text-anchor="middle">CLAUDE API</text>
+  </g>
+
+  <g>
+    <rect class="box" x="518" y="96" width="220" height="44"/>
+    <text class="mono idx"  x="534" y="123">01</text>
+    <text class="mono node" x="566" y="124">RESEARCH AGENT</text>
+
+    <rect class="box" x="518" y="178" width="220" height="44"/>
+    <text class="mono idx"  x="534" y="205">02</text>
+    <text class="mono node" x="566" y="206">RETRIEVAL AGENT</text>
+
+    <rect class="box" x="518" y="260" width="220" height="44"/>
+    <text class="mono idx"  x="534" y="287">03</text>
+    <text class="mono node" x="566" y="288">EXECUTION AGENT</text>
+
+    <rect class="box" x="518" y="342" width="220" height="44"/>
+    <text class="mono idx"  x="534" y="369">04</text>
+    <text class="mono node" x="566" y="370">REVIEW AGENT</text>
+  </g>
+
+  <g>
+    <rect class="core" x="836" y="216" width="128" height="68"/>
+    <text class="mono node" x="900" y="245" text-anchor="middle">SYNTHESIS</text>
+    <text class="mono idx"  x="900" y="264" text-anchor="middle">MERGE &#183; VERIFY</text>
+  </g>
+
+  <g>
+    <rect class="box" x="1044" y="228" width="116" height="44"/>
+    <text class="mono node" x="1102" y="255" text-anchor="middle">RESPONSE</text>
+  </g>
+
+  <rect x="226" y="229" width="52" height="15" fill="#0A0E12"/>
+  <text class="mono edge" x="252" y="240" text-anchor="middle">intent</text>
+  <rect x="449" y="153" width="58" height="15" fill="#0A0E12"/>
+  <text class="mono edge" x="478" y="164" text-anchor="middle">subtask</text>
+  <rect x="764" y="153" width="52" height="15" fill="#0A0E12"/>
+  <text class="mono edge" x="790" y="164" text-anchor="middle">result</text>
+  <rect x="973" y="229" width="62" height="15" fill="#0A0E12"/>
+  <text class="mono edge" x="1004" y="240" text-anchor="middle">verified</text>
+
+  <path d="M40 420H1160" stroke="#161F28"/>
+  <text class="mono edge" x="40" y="444">TOOLS &#183; MCP SERVERS &#183; SUPABASE PGVECTOR &#183; TYPED SCHEMAS</text>
+  <text class="mono edge" x="1160" y="444" text-anchor="end">SHEET 02 &#8212; ARCHITECTURE</text>
+</svg>
