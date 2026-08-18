@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 256" width="1200" height="256" role="img" aria-label="The orchestration code is private. What I own inside it: Claude Skills as packaged versioned instructions, MCP typed tool servers, retrieval with chunking embedding hybrid search and reranking, and guardrails covering output validation, token budgets, prompt caching and eval sets.">
+  <defs><style>.m { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }</style></defs>
+  <rect width="1200" height="256" fill="#FAFAFA"/>
+  <rect x="0" y="0" width="58" height="256" fill="#F1F1F2"/>
+  <path d="M58 0V256" stroke="#D9D9DB"/>
+  <text class="m" x="44" y="40" font-size="13" fill="#BFC0C2" text-anchor="end">1</text>
+  <text class="m" x="78" y="40" font-size="15" xml:space="preserve"><tspan fill="#A0A1A7">// the orchestration code is private — what I own inside it:</tspan></text>
+  <text class="m" x="44" y="66" font-size="13" fill="#BFC0C2" text-anchor="end">2</text>
+  <text class="m" x="78" y="66" font-size="15" xml:space="preserve"><tspan fill="#A626A4">const </tspan><tspan fill="#383A42">owned</tspan><tspan fill="#383A42"> = {</tspan></text>
+  <text class="m" x="44" y="92" font-size="13" fill="#BFC0C2" text-anchor="end">3</text>
+  <text class="m" x="78" y="92" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  skills</tspan><tspan fill="#383A42">:     </tspan><tspan fill="#50A14F">"packaged instructions + scripts, versioned and reviewed like code"</tspan><tspan fill="#383A42">,</tspan></text>
+  <text class="m" x="44" y="118" font-size="13" fill="#BFC0C2" text-anchor="end">4</text>
+  <text class="m" x="78" y="118" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  mcp</tspan><tspan fill="#383A42">:        </tspan><tspan fill="#50A14F">"typed tool servers over internal APIs and databases"</tspan><tspan fill="#383A42">,</tspan></text>
+  <text class="m" x="44" y="144" font-size="13" fill="#BFC0C2" text-anchor="end">5</text>
+  <text class="m" x="78" y="144" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  retrieval</tspan><tspan fill="#383A42">:  </tspan><tspan fill="#50A14F">"chunk, embed, hybrid search, rerank before the context window"</tspan><tspan fill="#383A42">,</tspan></text>
+  <text class="m" x="44" y="170" font-size="13" fill="#BFC0C2" text-anchor="end">6</text>
+  <text class="m" x="78" y="170" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  guardrails</tspan><tspan fill="#383A42">: </tspan><tspan fill="#50A14F">"output validation, token budgets, prompt caching, eval sets"</tspan><tspan fill="#383A42">,</tspan></text>
+  <text class="m" x="44" y="196" font-size="13" fill="#BFC0C2" text-anchor="end">7</text>
+  <text class="m" x="78" y="196" font-size="15" xml:space="preserve"><tspan fill="#383A42">};</tspan></text>
+</svg>

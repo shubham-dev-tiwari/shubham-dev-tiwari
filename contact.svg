@@ -25,7 +25,7 @@
   <text class="m" x="44" y="184" font-size="13" fill="#BFC0C2" text-anchor="end">5</text>
   <text class="m" x="44" y="210" font-size="13" fill="#BFC0C2" text-anchor="end">6</text>
   <text class="m" x="78" y="80" font-size="15" xml:space="preserve"><tspan fill="#A626A4">export default </tspan><tspan fill="#383A42">{</tspan></text>
-  <text class="m" x="78" y="106" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  email</tspan><tspan fill="#383A42">: </tspan><tspan fill="#50A14F">"your.email@example.com"</tspan><tspan fill="#383A42">,</tspan></text>
+  <text class="m" x="78" y="106" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  email</tspan><tspan fill="#383A42">: </tspan><tspan fill="#50A14F">"shubhamtiwaridevlog@gmail.com"</tspan><tspan fill="#383A42">,</tspan></text>
   <text class="m" x="78" y="132" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  linkedin</tspan><tspan fill="#383A42">: </tspan><tspan fill="#50A14F">"in/shubham-dev-tiwari"</tspan><tspan fill="#383A42">,</tspan></text>
   <text class="m" x="78" y="158" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  portfolio</tspan><tspan fill="#383A42">: </tspan><tspan fill="#50A14F">"shubham-dev-tiwari.vercel.app"</tspan><tspan fill="#383A42">,</tspan></text>
   <text class="m" x="78" y="184" font-size="15" xml:space="preserve"><tspan fill="#4078F2">  available</tspan><tspan fill="#383A42">: </tspan><tspan fill="#986801">true</tspan><tspan fill="#383A42">,</tspan><tspan fill="#383A42">  </tspan><tspan fill="#A0A1A7">// ai engineering · backend · full-stack</tspan></text>
