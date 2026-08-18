@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="Shubham Tiwari — Software Engineer, AI Systems" />
+<img src="banner.svg" width="100%" alt="Shubham Tiwari — Software Engineer, AI Systems" />
 
 <samp>
 
@@ -18,7 +18,7 @@ One and a half years in. Long enough to have shipped things, short enough to sti
 
 ## The thing I keep building
 
-<img src="assets/orchestrator.svg" width="100%" alt="Agent orchestration layer — request, planner, four specialized agents, synthesis, verified response" />
+<img src="orchestrator.svg" width="100%" alt="Agent orchestration layer — request, planner, four specialized agents, synthesis, verified response" />
 
 A planner decomposes the request. Specialized agents run in parallel, each with a narrow tool surface. Synthesis merges their output and verifies it before anything is returned. Failures stay contained to one branch instead of poisoning the whole answer.
 
@@ -36,7 +36,7 @@ This is my professional work and the code is private, so there is no repo to lin
 
 ## Stack
 
-<img src="assets/stack.svg" width="100%" alt="Stack: TypeScript, React, Next.js, Node.js, Tailwind; Supabase, Postgres, RLS, Edge Functions, pgvector; Claude API, MCP, Agent Skills, OpenAI, Vercel AI SDK" />
+<img src="stack.svg" width="100%" alt="Stack: TypeScript, React, Next.js, Node.js, Tailwind; Supabase, Postgres, RLS, Edge Functions, pgvector; Claude API, MCP, Agent Skills, OpenAI, Vercel AI SDK" />
 
 <br/>
 
