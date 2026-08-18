@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 236" width="580" height="236" role="img" aria-label="CAT MOCK PLATFORM — Exam-prep platform built for iQuanta — timed mock tests, sectional navigation, and scored analytics on the latest Next.js and React.">
+  <defs>
+    <pattern id="gr" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M25 0H0V25" fill="none" stroke="#151E27" stroke-width="1"/>
+    </pattern>
+    <style>
+      .m { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+      .amb { fill: #E0A144; } .bone { fill: #E8E3D9; }
+      .mut { fill: #7C8A99; } .dim { fill: #55636F; }
+      
+    </style>
+  </defs>
+  <rect width="580" height="236" fill="#0A0E12"/>
+  <rect width="580" height="236" fill="url(#gr)"/>
+  <g stroke="#26323E" stroke-width="1" fill="none"><path d="M14 26V14H26"/><path d="M554 14H566V26"/><path d="M14 210V222H26"/><path d="M554 222H566V210"/></g>
+  <rect x="14" y="14" width="552" height="208" fill="none" stroke="#1A242E"/>
+  <text class="m amb" x="40" y="52" font-size="12" letter-spacing="2">02</text>
+  <rect x="490.4" y="38" width="49.6" height="20" fill="none" stroke="#7C8A99"/>
+  <text class="m" fill="#7C8A99" x="532" y="52" font-size="9.5" letter-spacing="2.2" text-anchor="end">LIVE</text>
+  <text class="m bone" x="40" y="90" font-size="18" letter-spacing="2.6">CAT MOCK PLATFORM</text>
+  <path d="M40 106H540" stroke="#141C24"/>
+  <text class="m mut" x="40" y="134" font-size="12">Exam-prep platform built for iQuanta — timed mock tests,</text>
+  <text class="m mut" x="40" y="154" font-size="12">sectional navigation, and scored analytics on the latest</text>
+  <text class="m mut" x="40" y="174" font-size="12">Next.js and React.</text>
+  <text class="m" fill="#E0A144" opacity="0.85" x="40" y="200" font-size="10" letter-spacing="1.8">NEXT.JS 15 · REACT 19 · RADIX UI · TAILWIND</text>
+</svg>

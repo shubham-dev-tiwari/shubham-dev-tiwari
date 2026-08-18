@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Available for work">
+  <defs>
+    <pattern id="gr" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M25 0H0V25" fill="none" stroke="#151E27" stroke-width="1"/>
+    </pattern>
+    <style>
+      .m { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+      .amb { fill: #E0A144; } .bone { fill: #E8E3D9; }
+      .mut { fill: #7C8A99; } .dim { fill: #55636F; }
+      
+    </style>
+  </defs>
+  <rect width="1200" height="150" fill="#0A0E12"/>
+  <rect width="1200" height="150" fill="url(#gr)"/>
+  <g stroke="#26323E" stroke-width="1" fill="none"><path d="M18 34V18H34"/><path d="M1166 18H1182V34"/><path d="M18 116V132H34"/><path d="M1166 132H1182V116"/></g>
+  <text class="m bone" x="40" y="62" font-size="19" letter-spacing="3">AVAILABLE FOR WORK</text>
+  <text class="m mut" x="40" y="92" font-size="12">AI engineering &#183; backend &#183; full-stack. Also up for talking to anyone building agents,</text>
+  <text class="m mut" x="40" y="112" font-size="12">retrieval systems, or something that has no clean answer yet.</text>
+  <path d="M840 40V110" stroke="#1A242E"/>
+  <text class="m dim" x="880" y="58" font-size="10" letter-spacing="2.4">LOCATION</text>
+  <text class="m bone" x="1160" y="58" font-size="10" letter-spacing="2.4" text-anchor="end">INDIA &#183; REMOTE</text>
+  <text class="m dim" x="880" y="82" font-size="10" letter-spacing="2.4">NOTICE</text>
+  <text class="m bone" x="1160" y="82" font-size="10" letter-spacing="2.4" text-anchor="end">NEGOTIABLE</text>
+  <text class="m dim" x="880" y="106" font-size="10" letter-spacing="2.4">REPLY</text>
+  <text class="m bone" x="1160" y="106" font-size="10" letter-spacing="2.4" text-anchor="end">WITHIN 24H</text>
+  <path d="M40 124H1160" stroke="#141C24"/>
+</svg>
